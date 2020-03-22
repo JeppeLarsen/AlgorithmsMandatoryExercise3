@@ -21,7 +21,7 @@ First line: The length of the longest possible light chain.
 ### Example
 #### Input
 
-10
+10  
 7 101 999 100 8 99 45 102 6 97
 
 #### Output
