@@ -5,7 +5,7 @@ The solution is created in collaboration with Mads Hemer (@Jesdwarf).
 
 ## The Exercise
 
-Josefine is living on a very long street with houses numbered from 111 to 10910^9109. Unlike on a normal street, all houses are located on the same side of the street.
+Josefine is living on a very long street with houses numbered from 1 to 10^9. Unlike on a normal street, all houses are located on the same side of the street.
 
 Every year at Christmas, Josefine is responsible for putting up a beautiful light chain on her street. Obviously she wants the light chain to be as long as possible. Unfortunately, not all the families on the street want to be a part of the light chain decoration. Therefore she asks all families on her street to put a letter with their house number in her mailbox if they want to participate.
 
