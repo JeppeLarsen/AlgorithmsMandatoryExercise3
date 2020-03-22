@@ -7,8 +7,7 @@ namespace AlgorithmsMandatoryExercise3
     {
         static void Main(string[] args)
         {
-            //ChristmasLightChain();
-            CombustingConcoctions();
+            ChristmasLightChain();
         }
 
         static void ChristmasLightChain()
@@ -39,11 +38,5 @@ namespace AlgorithmsMandatoryExercise3
             Console.WriteLine(maxCons == 1 ? 0 : maxCons);
         }
 
-        static void CombustingConcoctions()
-        {
-            int length = int.Parse(Console.ReadLine());
-            string indArray = Console.ReadLine();
-            int[] input = indArray.Split(' ').Select(str => int.Parse(str)).ToArray();
-        }
     }
 }
